@@ -47,17 +47,26 @@ The notebooks cover the following experiments:
 
 ```text
 .
-├── Dataset/
-│   ├── train_data.csv
-│   ├── val_data.csv
-│   └── test_data.csv
-├── Multi-Task Learning PhoBERT.ipynb
-├── Multi-Task Learning Simple Models.ipynb
-├── Multi-Task Learning VisoBERT.ipynb
-├── Single-Task Learning Simple Models.ipynb
-├── preprocess.py
-├── report.pdf
-├── presentation.pptx
-├── requirements.txt
-└── .gitignore
+|-- Code/
+|   |-- Multi-Task Learning PhoBERT.ipynb
+|   |-- Multi-Task Learning Simple Models.ipynb
+|   |-- Multi-Task Learning VisoBERT.ipynb
+|   |-- Single-Task Learning Simple Models.ipynb
+|   `-- preprocess.py
+|-- Dataset/
+|   |-- train_data.csv
+|   |-- val_data.csv
+|   `-- test_data.csv
+|-- Doc/
+|   `-- Img/
+|       |-- Aspect-sentiment-distribution.jpg
+|       |-- Dataset-samples.jpg
+|       `-- Overall-result.jpg
+|-- Reports/
+|   |-- presentation.pptx
+|   `-- report.pdf
+|-- .gitattributes
+|-- .gitignore
+|-- README.md
+`-- requirements.txt
 ```
