@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+transformers
+datasets
+tf-models-official
+pyvi
+vncorenlp
+nltk
+regex
+emoji
+gensim
+matplotlib
+seaborn
+jupyter
